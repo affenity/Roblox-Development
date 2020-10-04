@@ -1,0 +1,25 @@
+{
+  "name": "roblox-game-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@rbxts/extendable-resources": "^1.0.0",
+    "@rbxts/inspect": "^1.0.1",
+    "@rbxts/net": "^1.2.5",
+    "@rbxts/resources": "0.0.18",
+    "@rbxts/services": "^1.0.3",
+    "@rbxts/signal": "^1.0.1",
+    "@rbxts/t": "^1.2.6",
+    "@rbxts/tween": "^1.0.2"
+  },
+  "devDependencies": {
+    "@rbxts/types": "^1.0.341"
+  },
+  "scripts": {
+    "test":  "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
