@@ -1,5 +1,7 @@
 ## Game Jam
 
+*Try the game here: https://www.roblox.com/games/4760587974/Game-Jam*
+
 This game was made for a game jam, hosted by ScriptersCF (https://scripterscf.com/)
 in under 24 hours.
 
